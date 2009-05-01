@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 33
+title: Hack?
+wordpress_url: http://anilwadghule.com/blog/?p=33
+layout: post
+---
+<p>A hack is a very common thing to do in programming. <a href="http://en.wiktionary.org/wiki/hack">http://en.wiktionary.org/wiki/hack</a> has these definitions:<br />5. To accomplish a difficult programming task.<br />7. To make a quick code change to patch a computer program.<br /><br />Really correct definitions! I want to become a good ~hacker.<br /></p>

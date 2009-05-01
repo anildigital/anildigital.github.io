@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 27
+title: Is Ruby on Rails the Mac of the development world?
+wordpress_url: http://anilwadghule.com/blog/?p=27
+layout: post
+---
+<p></p> <p>My answer: Yes!</p> <p>David's answer:<br /> <blockquote>I definitely like to call it that because we care about the whole experience. We care about putting a complete stack together. We care about sorting out all of those problems that usually fall between the cracks. I think that the Apple and especially the IPod example are such perfect examples on how you can introduce something like a dumb USB stick, like the Shuffle and make it a huge success because it's part of the complete stack. It would be a complete failure if it weren't part of the Apple environment. I think we can do the same things with a lot of tiny optimizations that seem inconsequential, but when they are seen across the whole stack, just like the stuff we are doing with Ajax now, it matters because we can control the whole level up. It's not just about shipping a JavaScript Library, it's about shipping a JavaScript Library that has hooks into the template language, that has hooks into how the controller operates, that has some general notions of how you are actually dealing with your model. By creating each of the individual parts, knowing how the rest of the world looks you can usually do something that is a lot more targeted and seemingly coherent, than if you're just working with your shutters on, on one single thing.</blockquote>

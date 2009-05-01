@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 95
+title: SudoKu
+wordpress_url: http://anilwadghule.com/blog/?p=95
+layout: post
+---
+<p>Heard of this word before? Me neither until I read this <a href="http://in.rediff.com/money/2005/jun/03sud.htm" target="_blank">article on rediff</a>.<br />I have been seeing Sudoku table in The Times Of India since few days.</p>So what is <a href="http://www.sudoku.com/" target="_blank">Sudoku</a> ?<br /><em>Sudoku is a number puzzle. Its Originated in Japan. Sudoku consists of a 9x9 grid, further divided into a 3x3 subgrid with a few numbers thrown in. Challenge is to fill each of the blank boxes in the rows, columns and 3x3 squares with digits from one to nine without repeating a single digit.</em><br /><img alt="Sudoku" src="http://photos1.blogger.com/img/272/4539/1024/Sudoku.jpg" border="0" />

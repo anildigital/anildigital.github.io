@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 235
+title: 10,000 and counting
+wordpress_url: http://anilwadghule.com/blog/?p=235
+layout: post
+---
+<p>Hurrey! I am a lucky person! I just opened my blog and saw the sitemeter count reached 10,000!<br /><img alt="" src="http://img104.imageshack.us/img104/6619/newgimpimage3uc.gif" border="0" /><br />My blog is on internet for more than a year! It is great to see 10,000. </p>

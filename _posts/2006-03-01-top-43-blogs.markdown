@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 209
+title: Top 43 Blogs
+wordpress_url: http://anilwadghule.com/blog/?p=209
+layout: post
+---
+Weblogswork has created a wiki with the <a href="http://43best.weblogswork.com/">43 best blogs</a>! I liked this list beacuse anyone can edit this list as it is a wiki!

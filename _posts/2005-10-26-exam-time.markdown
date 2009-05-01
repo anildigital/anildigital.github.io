@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 184
+title: Exam Time
+wordpress_url: http://anilwadghule.com/blog/?p=184
+layout: post
+---
+<div style="text-align: justify;">I will not blog for some time. I will have to do some study stuff. On Oct 29, is my AI viva, On Nov 8, is CL1 practical exam and on Nov 12 is the CN viva. This is the most important time in my life. I will come back soon! :p</div>

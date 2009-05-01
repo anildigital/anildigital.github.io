@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 70
+title: PCQLinux2005
+wordpress_url: http://anilwadghule.com/blog/?p=70
+layout: post
+---
+I installed PCQLinux2005, today and found it is better than Fedora core 3. PCQLinux is the modified version of Fedora core 3. It is exclusively created for India by PCQuest magazine. Before this, I had Fedora core 3 linux in my system. Fedora was quite good than its previous versions. PCQ is customized for Indian users with many India languages except Marathi, Fedora 3 have Marathi in it. Why PCQ dropped Marathi is the question. This year's issue they have modified Fedora Core 3 in such a way that there are 12 installation options as well as supercomputing and linux clusters support. PCQ have added  many extra softwares such as MediaWiki, Drupal, phpBB etc. for enterprise. J2SE, J2ME, JRE, Eclipse, Tomcat, GTK#, Mono, Gambus etc. for developers. Security tools such as Firewall builder, Ettercap, SELinux etc. The threats and problems in Fedora are reduced in PCQLinux2005. I think this is the best distro for linux. Once u install it , I bet u will forget givin "rpm-ivh anyprogram.rpm" after installing it. We need not have to install the extra softwares because most of the softwares are included it. For getting more inforamation on PCQLinux visit <a href="http://pcquest.com/" target="_blank">pcquest.com</a>

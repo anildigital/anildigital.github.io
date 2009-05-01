@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 98
+title: Emergency number 4 mobile
+wordpress_url: http://anilwadghule.com/blog/?p=98
+layout: post
+---
+<p>This is if you are not aware of The Emergency Number Worldwide for Mobile is 112. If you find yourself out of coverage area of your mobile network and there is an emergency, dial 112 and the mobile will search any existing network to establish the Emergency number for you. And interestingly this number 112 can be dialed fully even while the keypad is locked .</p><p>Technorati Tags: <a href="http://www.technorati.com/tags/mobile" rel="tag">mobile</a>, <a href="http://www.technorati.com/tags/secrets" rel="tag">secrets</a>, <a href="http://www.technorati.com/tags/emergency" rel="tag">emergency</a>, <a href="http://www.technorati.com/tags/number" rel="tag">number</a>, <a href="http://www.technorati.com/tags/tips" rel="tag">tips</a></p>

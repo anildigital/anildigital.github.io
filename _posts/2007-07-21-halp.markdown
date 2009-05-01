@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 256
+title: Halp!
+wordpress_url: http://anilwadghule.com/blog/2007/07/21/halp/
+layout: post
+---
+If you were to buy a good laptop, what would it be?
+
+Update: August 03, 2007
+Finally decided to buy <a href="http://apple.com/macbookpro">Macbook Pro</a> only. I love it.

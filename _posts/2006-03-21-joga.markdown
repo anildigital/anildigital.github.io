@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 218
+title: Joga
+wordpress_url: http://anilwadghule.com/blog/?p=218
+layout: post
+---
+Google and Nike have launched a social networking site : <a href="http://joga.com/">Joga</a><br />I am interested in Joga! Please send me invite!

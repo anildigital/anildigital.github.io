@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 125
+title: Flickr
+wordpress_url: http://anilwadghule.com/blog/?p=125
+layout: post
+---
+This is a test post from <a href="http://www.flickr.com/r/testpost"><img alt="flickr" src="http://www.flickr.com/images/flickr_logo_blog.gif" align="absmiddle" border="0" height="18" width="41" /></a>, a fancy photo sharing thing.

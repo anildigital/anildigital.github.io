@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 185
+title: I am back!
+wordpress_url: http://anilwadghule.com/blog/?p=185
+layout: post
+---
+<div style="text-align: justify;">My first sem. BE exam finished. I am quite relaxed. I am in love with this winter season. I like to wake up early in the morning. I like to see and feel the fog. Great........ : )</div>

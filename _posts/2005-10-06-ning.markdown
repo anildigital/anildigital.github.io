@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 175
+title: Ning !
+wordpress_url: http://anilwadghule.com/blog/?p=175
+layout: post
+---
+From last two days I am reading lots of material about <a href="http://www.ning.com/">Ning</a>,<br />Here are some links<br /><a href="http://www.techcrunch.com/2005/10/04/ning-launches/">http://www.techcrunch.com/2005/10/04/ning-launches/</a><br /><a href="http://www.downloadsquad.com/2005/10/05/ning-marc-adreessen-takes-on/">http://www.downloadsquad.com/2005/10/05/ning-marc-adreessen-takes-on/</a><br /><br />I am really impressed with Ning!

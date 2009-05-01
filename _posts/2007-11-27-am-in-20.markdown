@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 271
+title: "'am in 20%"
+wordpress_url: http://anilwadghule.com/blog/2007/11/27/am-in-20/
+layout: post
+---
+Read this interesting post "<a href="http://www.codinghorror.com/blog/archives/001002.html" target="_blank">The Two Types of Programmers</a>" by Jeff.  This post have got nice comments.  Both kind of programmers are equally important in software development. :)

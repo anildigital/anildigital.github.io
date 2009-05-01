@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 73
+title: Gmail to 2GB
+wordpress_url: http://anilwadghule.com/blog/?p=73
+layout: post
+---
+Today morning, when I started my comp for checking mails &amp;  latest news by my feedreader. I got so much excited when I read in <a href="http://www.lifehacker.com/software/email-apps/gmail-to-2gb-037891.php" title="Lifehacker" target="_blank">Lifehacker</a> that Gmail in now going to 2GB. As a google fan, this news is joy for me. Check out <a href="http://www.google.com/gmail/help/whatsnew.html" title="Gmail" target="_blank">What's new on Gmail?</a> <p>Just few days before Yahoo announced to go for 1GB mail from their current 250MB. I am waiting how yahoo reacts with this. But Google have again showed that it is ahead and competing with Google is not easy game.</p>

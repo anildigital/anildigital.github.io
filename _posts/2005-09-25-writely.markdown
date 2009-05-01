@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 166
+title: Writely
+wordpress_url: http://anilwadghule.com/blog/?p=166
+layout: post
+---
+<div xmlns="http://www.w3.org/1999/xhtml">I am testing <span style="color: rgb(51, 204, 0);">writely</span>. The <span style="color: rgb(255, 0, 0);">web</span> <span style="color: rgb(51, 204, 255);">word</span> <span style="color: rgb(255, 153, 255);">processor</span>. It's a <span style="font-weight: bold;">great</span>. Interface is <span style="font-style: italic;">cool</span> and <span style="text-decoration: underline;">intuitive</span>. It has blog posting facility also. I am posting this from writely. <a href="http://writely.com/">http://writely.com</a><br /></div>

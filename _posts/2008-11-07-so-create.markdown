@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 322
+title: So create
+wordpress_url: http://anilwadghule.com/blog/?p=322
+layout: post
+---
+<a href="http://whytheluckystiff.net/">Why the lucky stiff</a> on <a href="http://twitter.com/_why/status/881768089">Twitter</a>
+<blockquote>when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow &amp; exclude people. so create.</blockquote>

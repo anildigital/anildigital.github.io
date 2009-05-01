@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 18
+title: I liked it
+wordpress_url: http://anilwadghule.com/blog/?p=18
+layout: post
+---
+<p>Nice quote<br /> <blockquote>Ruby’s the only language I’ve ever used that feels like it was designed by a programmer, and not by a hardware engineer (Java, C, C++), an academic theorist (Lisp, Haskell, OCaml), or an editor of PC World (Python).<br /><a href="http://cs.stanford.edu/people/wmorgan/">William Morgan</a></blockquote>
