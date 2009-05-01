@@ -1,98 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+---
+layout: default
+title: Anil's blog
+---
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8"  />
-    <title>anil wadghule</title>
-    <style type="text/css">
-
-     * {
-        margin: 0;
-        padding: 0;
-      }
-
-      body {
-        background: url(http://digitalcodes.org/images/iron.jpg) #fafafa repeat;
-      }
-
-      .company {
-        position: absolute;
-        font-family: Lucida Grande;
-        left: 170px;
-        top:100px;
-        font-size: 85px;
-        color: #444;
-      }
-
-      .company_man {
-        position: absolute;
-        font-family: Lucida Grande;
-        left: 179px;
-        top:202px;
-        font-size: 15px;
-        color: #444;
-      }
-
-      ul {
-        position: absolute;
-        left: 850px;
-        top: 30px;
-        list-style-type: none;
-      }
-
-      #repos {
-        top: 130px;
-      }
-
-      a {
-        color: #444;
-        font-family: Lucida Grande;
-        line-height: 18px;
-      }
-
-      h3 {
-        font-family: Lucida Grande;      
-      }
-    </style>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      $(function() {
-        var limit = 10        // how many repos to list
-        var login = 'anildigital' // your username
-
-        $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
-          var repos = $.grep(data.user.repositories, function() {
-            return !this.fork
-          })
-
-          repos.sort(function(a, b) {
-            return b.watchers - a.watchers
-          })
-
-          $.each(repos.slice(0, limit), function() {
-            $('#repos').append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
-          })
-        })        
-      })
-    </script>
-
-  </head>
-  <body>
-    <div class="company">
-      Digital Codes
-    </div>
-    <div class="company_man">
-      anil wadghule
-    </div>
-    <ul>
-      <li><a href="http://twitter.com/anildigital">twitter.com/anildigital</a></li>
-      <li><a href="http://github.com/anildigital">github.com/anildigital</a></li>
-      <li><a href="mailto:anil@digitalcodes.org">anil</a>@<a href="http://digitalcodes.org">digitalcodes.org</a></li>
-
-    </ul>
-    <ul id="repos">
-      <li><h3>repositories</h3></li>
-    </ul>
-  </body>
-</html>
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+</div>
+  
