@@ -40,14 +40,14 @@ The reason is that MySQL Ruby gem build is 32 bit one and it doesn't work well w
 To solve all this, uninstall installed 64 bit MySQL dmg as follows ( There is no good way to uninstall MySQL from Mac other than below)
 
 <pre class="terminal">
-* sudo rm /usr/local/mysql
-* sudo rm -rf /usr/local/mysql*
-* sudo rm -rf /Library/StartupItems/MySQLCOM
-* sudo rm -rf /Library/PreferencePanes/My*
-* edit /etc/hostconfig and remove the line MYSQLCOM=-YES-
-* sudo rm -rf /Library/Receipts/mysql*
-* sudo rm -rf /Library/Receipts/MySQL*
+ sudo rm /usr/local/mysql
+ sudo rm -rf /usr/local/mysql*
+ sudo rm -rf /Library/StartupItems/MySQLCOM
+ sudo rm -rf /Library/PreferencePanes/My*
+ edit /etc/hostconfig and remove the line MYSQLCOM=-YES-
+ sudo rm -rf /Library/Receipts/mysql*
+ sudo rm -rf /Library/Receipts/MySQL*
 </pre>
-from - http://akrabat.com/2008/09/11/uninstalling-mysql-on-mac-os-x-leopard/
+from - [http://akrabat.com/2008/09/11/uninstalling-mysql-on-mac-os-x-leopard/](http://akrabat.com/2008/09/11/uninstalling-mysql-on-mac-os-x-leopard/)
 
-Now download and install 32 bit MySQL dmg (http://dev.mysql.com/downloads/mysql/5.1.html#macosx-dmg)
+Now download and install 32 bit [MySQL dmg](http://dev.mysql.com/downloads/mysql/5.1.html#macosx-dmg)
