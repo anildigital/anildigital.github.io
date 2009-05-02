@@ -214,3 +214,8 @@ ul.posts span {
 #related h2 {
 	margin-bottom: 1em;
 }
+
+#view_comments_link {
+	font-size:12px;
+	margin-top:10px;
+}
