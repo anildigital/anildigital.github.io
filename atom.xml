@@ -11,10 +11,10 @@ layout: nil
  <id>http://anilwadghule.com/</id>
  <author>
    <name>Anil Wadghule</name>
-   <email>anil@digitalcodes.org/email>
+   <email>anil@digitalcodes.org</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:10 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://anilwadghule.com{{ post.url }}"/>
