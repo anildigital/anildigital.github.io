@@ -5,23 +5,24 @@ title: Anil Wadghule
 
 
 <div id="home">
-  <h1>The three most recent posts.</h1>
+  <h1 id="intro">The three most recent posts.</h1>
   <div>
   </div>
-  <ul class="posts">
-    {% for post in site.posts limit:3 %}
-	<div id="post">	
-	  <h1><a href="{{ post.url }}">{{post.title}}</a></h1>
-	  <p class="meta">{{ post.date | date:"%B %d, %Y" }}</p>
-	  {{ post.content }}
-	</div>
-	<div style="margin-top:25px;">
-		&nbsp;
-	</div>
-    {% endfor %}
-  </ul>
-  <div style="margin-top:5px;">
-		<h2>See <a href="/archive.html">Archive</a></h2>
+  {% for post in site.posts limit:3 %}
+  <div id="post">	
+    <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
+    <span class="date">{{ post.date | date:"%B %d, %Y" }}</span>
+    {{ post.content }}
+    <div id="view_comments_link">
+      <a href="{{ post.url }}#disqus_thread">View Comments</a> <br />
+    </div>
+  </div>
+  <div style="margin-top:25px;">
+    &nbsp;
+  </div>
+  {% endfor %}
+  <div>
+    <h2>Older posts... (see <a href="/archive.html">archive</a> for more)</h2>
   </div>
 </div>
-  
+

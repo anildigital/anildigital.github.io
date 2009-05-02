@@ -30,7 +30,7 @@ from OpenID providers and just use your site address as delegated OpenID.
 
 <p style="text-align: left;">You need to add following code to your sites index.html or any index page, which gets
 rendered when you hit yoursite.com
-<pre style="text-align: left;"><code>
+<pre class="terminal"><code>
 &lt;link rel="openid.server" href="https://www.myopenid.com/server"&gt;
 &lt;link rel="openid.delegate" href="http://anildigital.myopenid.com"&gt;
 </code></pre>
@@ -39,7 +39,7 @@ In my case it is <a href="http://anilwadghule.com">anilwadghule.com</a>
 
 <p style="text-align: left;">Now you don't want myOpenID as OpenID provider and you think claimid.com is better OpenID
 provider just replace above snippet with code
-<pre style="text-align: left;"><code>
+<pre class="terminal"><code>
 &lt;link rel="openid.server" href="http://openid.claimid.com/server" /&gt;
 &lt;link rel="openid.delegate" href="http://openid.claimid.com/anildigital" /&gt;
 </code></pre>

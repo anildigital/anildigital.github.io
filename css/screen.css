@@ -73,7 +73,6 @@ ul.posts span {
 }
 
 
-
 /*****************************************************************************/
 /*
 /* Site
@@ -121,6 +120,41 @@ ul.posts span {
 
 .site .title a.extra:hover {
 	color: black;
+}
+
+
+.header {
+  border-bottom:1px solid #CCCCCC;
+  color:#0000AA;
+  font-weight:bold;
+  margin-bottom:2em;
+  text-align:left;
+}
+.site .header h1 {
+  font-family:"Lucida Grande",Verdana,Arial,sans-serif;
+  font-size:26px;
+  font-weight:normal;
+}
+.site .header a {
+  color:#0000AA;
+  text-decoration:none;
+}
+.site .header a:hover {
+  color:black;
+}
+.site .header a.extra {
+  color:#999;
+  margin-right:2em;
+  text-decoration:none;
+}
+.site .header a.extra:hover {
+  color:black;
+}
+
+.site #intro{
+  color:#000000;
+  font-size:18px;
+  margin-bottom:1em;
 }
 
 .site .meta {
@@ -173,6 +207,7 @@ ul.posts span {
 
 #post {
   border-bottom: 1px #ccc solid;
+  padding-bottom: 15px;
 }
 
 /* standard */
@@ -200,11 +235,18 @@ ul.posts span {
 	border: 1px solid black;
 	background-color: #333;
 	color: white;
+	font-size: 14px;
 	overflow:auto;
 }
 
 #post pre.terminal code {
 	background-color: #333;
+}
+
+/* date */
+#post .date{
+  color:#666666;
+  font-style:italic;
 }
 
 #related {
@@ -217,5 +259,6 @@ ul.posts span {
 
 #view_comments_link {
 	font-size:12px;
+	text-align:right;
 	margin-top:10px;
 }
