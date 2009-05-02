@@ -17,10 +17,15 @@ title: Anil Wadghule
       <a href="{{ post.url }}#disqus_thread">View Comments</a> <br />
     </div>
   </div>
-  <div style="margin-top:25px;">
-    &nbsp;
-  </div>
   {% endfor %}
+  <div id="related">
+    <h2>Previous posts</h2>
+    <ul class="posts">
+      {% for post in site.posts offset:3 limit:3 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
   <div>
     <h2>Older posts... (see <a href="/archive.html">archive</a> for more)</h2>
   </div>
