@@ -1,0 +1,72 @@
+Resume of Anil Wadghule
+
+anil@digitalcodes.org	
+
+I am a software engineer specializing in Ruby and Ruby on Rails projects. 
+
+I keep a technical + personal blog at http://anilwadghule.com.
+
+Employment
+
+December 2006 to present
+Software Engineer at MangoSpring Technologies, Pune, India.
+- Playing vital role in development of PurpleTrail.com
+- Is leading development + architecture in many aspects
+- Worked on Taskbin.com and also working on Eventuity which is PurpleTrail 
+  business version
+
+May 2006 to August December 2006		
+Software Engineer at Reevik Technologies, Pune, India.
+- Lead developer on Giftlasso.com
+- First company in Pune to work with Ruby on Rails.
+
+Education
+
+February 2003 to May 2008	
+Bachelor of Engineering in Computer Science, University of Pune, Maharashtra, India. 
+
+Academic Project
+Social Bookmarks Manager - Sponsored by Patni Computers, Pune
+- A Web 2.0 website built using JSP, MySQL, Apache Tomcat. This project was a successful endeavor to imitate del.icio.us
+
+Academic Seminar
+RSS (Really Simple Syndication)
+- Presented seminar on RSS at my college during my 7th semester! Gave detail information on RSS which is a XML file format
+
+
+Open source
+
+May 2006 to present	
+- Checkout http://github.com/anildigital for my open source projects
+- Contributing to Ruby on Rails by finding bugs and creating tickets. 
+- Patches contributed to sql_session_store plugin.
+- Wrote Facebook Connect demo app http://github.com/anildigital/fb_connect_rails_demo_app/
+- Developed open source Rails planet site http://planetrubyonrails.net
+
+
+Activities
+
+February 2009
+Participated Yahoo Open Hack Day 2009 @ Bangalore. Was part of around 250+ invitees out of thousands of applicants for HackDay. 
+
+February 2008
+Session speaker at BarCamp 4 @ ThoughtWorks Pune. 
+Slide: http://www.slideshare.net/anildigital/git-introduction
+
+July 2006
+Organized first BarCamp in Pune, Mahrashtra, India. Is participant of all 5 Barcamps 
+happened at Pune.
+
+Skills
+
+Languages
+Ruby, Java, C, JavaScript
+
+Databases
+MySQL, SQLite.
+
+Version controls
+Git, Subversion
+
+Operating systems
+Linux, OS X, Windows.
