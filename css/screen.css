@@ -244,6 +244,17 @@ ul.posts span {
 	background-color: #333;
 }
 
+
+/* terminal */
+
+#post .gist-data {
+	border: 1px solid black;
+	background-color: #333;
+	color: white;
+	font-size: 14px;
+	overflow:auto;
+}
+
 /* date */
 #post .date{
   color:#666666;
