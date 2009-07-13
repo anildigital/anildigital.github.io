@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<div id="post">	
+<div class="post">	
 	<h2> {{page.title}} </h2>
 	<span class="date">{{ page.date | date:"%B %d, %Y" }}</span>
 	{{ content }}
-	<div id="view_comments_link">
+	<div class="view_comments_link">
 		<a href="{{ page.url }}#disqus_thread">View Comments</a> <br />
 		<div id="disqus_thread"></div>
 		<script type="text/javascript" src="http://disqus.com/forums/anilsweblog/embed.js"></script>

@@ -9,11 +9,11 @@ title: Anil Wadghule
   <div>
   </div>
   {% for post in site.posts limit:3 %}
-  <div id="post">	
+  <div class="post">	
     <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
     <span class="date">{{ post.date | date:"%B %d, %Y" }}</span>
     {{ post.content }}
-    <div id="view_comments_link">
+    <div class="view_comments_link">
       <a href="{{ post.url }}#disqus_thread">View Comments</a> <br />
     </div>
   </div>
