@@ -1,4 +1,3 @@
 markdown: rdiscount
 pygments: true
-source: git://github.com/anildigital/anildigital.github.com.git
 lsi: false
