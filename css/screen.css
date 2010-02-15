@@ -62,6 +62,10 @@ ul.posts {
 	margin-bottom: 2em;
 }
 
+.small {
+	font-size:90%;
+}
+
 ul.posts li {
 	line-height: 1.75em;
 }
@@ -85,16 +89,6 @@ ul.posts span {
 	width: 40em;
 	margin: 3em auto 2em auto;
 	line-height: 1.5em;
-}
-
-.site_left{
-	
-	
-}
-
-.site_right{
-	
-	
 }
 
 .title {
@@ -124,37 +118,37 @@ ul.posts span {
 
 
 .header {
-  border-bottom:1px solid #CCCCCC;
-  color:#0000AA;
-  font-weight:bold;
-  margin-bottom:2em;
-  text-align:left;
+	border-bottom:1px solid #CCCCCC;
+	color:#0000AA;
+	font-weight:bold;
+	margin-bottom:2em;
+	text-align:left;
 }
 .site .header h1 {
-  font-family:"Lucida Grande",Verdana,Arial,sans-serif;
-  font-size:26px;
-  font-weight:normal;
+	font-family:"Lucida Grande",Verdana,Arial,sans-serif;
+	font-size:26px;
+	font-weight:normal;
 }
 .site .header a {
-  color:#0000AA;
-  text-decoration:none;
+	color:#0000AA;
+	text-decoration:none;
 }
 .site .header a:hover {
-  color:black;
+	color:black;
 }
 .site .header a.extra {
-  color:#999;
-  margin-right:2em;
-  text-decoration:none;
+	color:#999;
+	margin-right:2em;
+	text-decoration:none;
 }
 .site .header a.extra:hover {
-  color:black;
+	color:black;
 }
 
 .site #intro{
-  color:#000000;
-  font-size:18px;
-  margin-bottom:1em;
+	color:#000000;
+	font-size:18px;
+	margin-bottom:1em;
 }
 
 .site .meta {
@@ -162,6 +156,7 @@ ul.posts span {
 }
 
 .site .footer {
+	clear:both;
 	font-size: 80%;
 	color: #666;
 	border-top: 4px solid #eee;
@@ -196,7 +191,7 @@ ul.posts span {
 	overflow: hidden;
 }
 .site .footer2 a {
-   color: #666;
+	color: #666;
 }
 
 /*****************************************************************************/
@@ -206,9 +201,9 @@ ul.posts span {
 /*****************************************************************************/
 
 .post {
-  border-bottom: 1px #ccc solid;
-  padding-bottom: 10px;
-  margin-bottom:30px;
+	border-bottom: 1px #ccc solid;
+	padding-bottom: 10px;
+	margin-bottom:30px;
 }
 
 /* standard */
@@ -245,11 +240,10 @@ ul.posts span {
 }
 
 
-
 /* date */
 .post .date{
-  color:#666666;
-  font-style:italic;
+	color:#666666;
+	font-style:italic;
 }
 
 #related {
@@ -259,6 +253,16 @@ ul.posts span {
 #related h2 {
 	margin-bottom: 1em;
 }
+
+.related_left {
+	float:left;
+	width:45%;	
+}
+
+.related_right {
+	float:right;	
+}
+
 
 .view_comments_link {
 	font-size:12px;

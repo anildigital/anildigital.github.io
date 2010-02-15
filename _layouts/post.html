@@ -14,10 +14,15 @@ layout: default
 </div>
 
 <div id="related">
-	<h2>Recent Posts</h2>
-	<ul class="posts">
-		{% for post in site.related_posts limit:3 %}
-		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endfor %}
-	</ul>
+	<div class="related_left">
+		<h2>Recent Posts</h2>
+		<ul class="posts small">
+			{% for post in site.related_posts limit:3 %}
+			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+	<div class="related_right">
+		<script type="text/javascript" src="http://static.ads4good.org/adjet.js"></script>  <script>ADS4GOOD.Adjet.init({     userid: 19,      causeid: 4,      width: 300,      height: 250 });     ADS4GOOD.Adjet.render(); </script>  <noscript>	    <a href="http://ads4good.org">Ads4Good - Engaging people in the act of Giving</a>.    <a href="http://ads4good.org/causes">Support your favorite cause through your blog or website</a>. </noscript>
+	</div>
 </div>
