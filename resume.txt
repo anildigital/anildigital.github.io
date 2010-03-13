@@ -2,16 +2,24 @@ Resume of Anil Wadghule
 
 anil@digitalcodes.org	
 
-I am a software engineer specializing in Ruby and Ruby on Rails projects. 
+I am a programmer specializing in Ruby and Ruby on Rails projects. 
 
 I keep a technical + personal blog at http://anilwadghule.com.
 
 Employment
 
-December 2006 to present
+Jan 2010 to present
+Senior Development Engineer at Calsoft, Pune, India.
+- Is working on outsourced products at Calsoft.
+
+July 2009 to Jan 2010
+Senior Software Engineer at MangoSpring Technologies, Pune, India.
+- Played vital role in development of MangoSpring's products.
+
+December 2006 to July 2009
 Software Engineer at MangoSpring Technologies, Pune, India.
-- Playing vital role in development of PurpleTrail.com
-- Is leading development + architecture in many aspects
+- Played vital role in development of PurpleTrail.com
+- Lead development + architecture in many aspects
 - Worked on Taskbin.com and also working on Eventuity which is PurpleTrail 
   business version
 
@@ -22,7 +30,7 @@ Software Engineer at Reevik Technologies, Pune, India.
 
 Education
 
-February 2003 to May 2008	
+February 2001 to May 2006	
 Bachelor of Engineering in Computer Science, University of Pune, Maharashtra, India. 
 
 Academic Project
@@ -54,8 +62,7 @@ Session speaker at BarCamp 4 @ ThoughtWorks Pune.
 Slide: http://www.slideshare.net/anildigital/git-introduction
 
 July 2006
-Organized first BarCamp in Pune, Mahrashtra, India. Is participant of all 5 Barcamps 
-happened at Pune.
+Helped organizing first BarCamp in Pune, Mahrashtra, India. 
 
 Skills
 

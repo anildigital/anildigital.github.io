@@ -6,8 +6,8 @@ title: About
 About
 ========
 
-* I am 25 years old Ruby on Rails developer. 
-* Since December 2006, I've been employed as a 'Software Engineer' for [MangoSpring](http://mangospring.com)
+* I am 26 years old programmer, hacker.
+* Since Jaunary 2010, I've been employed as a 'Senior Development Engineer' for [Calsoft](http://calsoftinc.com), Pune.
 * This is where I hope, I can share my thoughts, adventures in my life,  photos, codes and all nice things I am excited about.
 * You can follow me on [Twitter](http://twitter.com/anildigital), hear my musical tastes on [Last.fm](http://www.last.fm/user/anildigital)
 * Feel free to drop me an e-mail, <a href="mailto:anil@digitalcodes.org">anil@digitalcodes.org</a>   
