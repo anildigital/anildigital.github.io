@@ -1,7 +1,0 @@
---- 
-wordpress_id: 46
-title: Check it out, about Google Total
-wordpress_url: http://anilwadghule.com/blog/?p=46
-layout: post
----
-Check out this link <a href="http://esakal.com/esakal/09222006/1B60E67974.htm">http://esakal.com/esakal/09222006/1B60E67974.htm</a>. Somebody wrote an article on Google Blog in <a href="http://esakal.com">Sakal Newspaper</a>, Pune. In that he has mentioned about <a href="http://goototal.blogspot.com">Google Total</a>. But article is in Marathi. ;(<br />I am happy because my small creation is getting noticed by media!
