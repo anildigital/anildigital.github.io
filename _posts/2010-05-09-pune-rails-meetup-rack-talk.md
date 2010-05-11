@@ -1,9 +1,9 @@
 --- 
-title: 'Rack' talk @ Pune Rails Meetup
+title: Rack talk at Pune Rails Meetup
 layout: post
 ---
 
-I gave a talk on 'Rack - a Ruby Webserver Interface' at [Pune Rails Meetup](http://www.meetup.com/PuneRailsMeetup/) #4 this weekend held at ThoughtWorks, Pune. 
+I gave a talk on 'Rack - a Ruby Webserver Interface' this weekend at [Pune Rails Meetup](http://www.meetup.com/PuneRailsMeetup/) #4 held at ThoughtWorks, Pune. 
 
 Here are the links for slides and GitHub repository of talk with codes.
 
