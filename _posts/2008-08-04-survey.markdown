@@ -1,9 +1,0 @@
---- 
-wordpress_id: 300
-title: Survey
-wordpress_url: http://anilwadghule.com/blog/?p=300
-layout: post
----
-<a title="The Web Design Survey, 2008" href="http://www.alistapart.com/articles/survey2008"><img src="http://aneventapart.com/webdesignsurvey/templates/ala/images/i-took-the-2008-survey.gif" border="0" alt="" /></a>
-
-It's a <a href="http://www.alistapart.com/" target="_blank">A List Apart</a>'s <a href="http://aneventapart.com/survey2008/" target="_blank">survey 2008</a> for people who make websites. I came to know about this via <a href="http://abdulqabiz.com">Abdul's blog</a>. Questions were really interesting. Do take the survey.
