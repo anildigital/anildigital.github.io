@@ -3,5 +3,4 @@ layout: default
 title: Anil Wadghule CV
 ---
 
-[ASCII Resume](/resume.txt)    
-[HTML CV](/cv.html)
+[ASCII Resume](/resume.txt)

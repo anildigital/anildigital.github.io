@@ -1,14 +1,24 @@
 Resume of Anil Wadghule
 
-anil@digitalcodes.org	
+anildigital@gmail.com
 
-I am a programmer specializing in Ruby and Ruby on Rails projects. 
+I am a programmer specializing in Ruby and Ruby on Rails projects. I do work with Java, JavaScript/Node.js.
+
+I am wannabe Clojure, Scala programmer. I belive in Polyglot. Good projects use right tools for right job.
 
 I keep a technical + personal blog at http://anilwadghule.com.
 
 Employment
 
-Jan 2010 to present
+July 2013 to present
+Software Engineer at Equal Experts, Pune, India
+- working as a agile developer and use multiple technologies to solve clients' problems. 
+
+March 2011 to July 2013
+Senior Software Engineer at SunGard, Pune, India
+- worked on financial software mainly on REST API development.
+
+Jan 2010 to March 20122
 Senior Development Engineer at Calsoft, Pune, India.
 - Is working on outsourced products at Calsoft.
 
@@ -23,14 +33,14 @@ Software Engineer at MangoSpring Technologies, Pune, India.
 - Worked on Taskbin.com and also working on Eventuity which is PurpleTrail 
   business version
 
-May 2006 to August December 2006		
+May 2006 to August December 2006    
 Software Engineer at Reevik Technologies, Pune, India.
 - Lead developer on Giftlasso.com
 - First company in Pune to work with Ruby on Rails.
 
 Education
 
-February 2001 to May 2006	
+February 2001 to May 2006 
 Bachelor of Engineering in Computer Science, University of Pune, Maharashtra, India. 
 
 Academic Project
@@ -44,15 +54,20 @@ RSS (Really Simple Syndication)
 
 Open source
 
-May 2006 to present	
+May 2006 to present 
 - Checkout http://github.com/anildigital for my open source projects
 - Contributing to Ruby on Rails by finding bugs and creating tickets. 
-- Patches contributed to sql_session_store plugin.
-- Wrote Facebook Connect demo app http://github.com/anildigital/fb_connect_rails_demo_app/
-- Developed open source Rails planet site http://planetrubyonrails.net
 
 
 Activities
+
+I keep talking at regular dev meetups like Pune Ruby Meetup etc.
+
+July 2013
+Talked on Design Patterns in Ruby
+
+May 2010
+Talked brief on Rack - Ruby Webserver Interface.
 
 February 2009
 Participated Yahoo Open Hack Day 2009 @ Bangalore. Was part of around 250+ invitees out of thousands of applicants for HackDay. 
@@ -67,13 +82,13 @@ Helped organizing first BarCamp in Pune, Mahrashtra, India.
 Skills
 
 Languages
-Ruby, Java, C, JavaScript
+Ruby, Java, JavaScript
 
 Databases
-MySQL, SQLite.
+MySQL, SQLite, MongoDB
 
 Version controls
-Git, Subversion
+Git
 
 Operating systems
 Linux, OS X, Windows.
