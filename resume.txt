@@ -4,7 +4,7 @@ anildigital@gmail.com
 
 I am a programmer specializing in Ruby and Ruby on Rails projects. I do work with Java, JavaScript/Node.js.
 
-I am wannabe Clojure, Scala programmer. I belive in Polyglot. Good projects use right tools for right job.
+I am wannabe Clojure, Scala programmer. I believe in Polyglot. Good projects use right tools for right job.
 
 I keep a technical + personal blog at http://anilwadghule.com.
 
