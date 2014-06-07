@@ -17,7 +17,7 @@ html, body {
 
 body {
 	background-color: white;
-	font: 13.34px helvetica, arial, clean, sans-serif;
+	font: 13px helvetica, arial, clean, sans-serif;
 	*font-size: small;
 	text-align: center;
 }
@@ -262,16 +262,23 @@ ul.posts span {
 
 .related_left {
 	float:left;
-	width:45%;	
+	width:45%;
 }
 
 .related_right {
-	float:right;	
+	float:right;
 }
-
 
 .view_comments_link {
 	font-size:12px;
 	text-align:right;
 	margin-top:10px;
+}
+
+/* Display last.fm chart */
+#lastfm_chart {
+    position:fixed;
+    top:42px;
+    right:30px;
+    z-index:1000;
 }
