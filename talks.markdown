@@ -3,6 +3,7 @@ layout: default
 title: Talks
 ---
 
+* [SOLID Design Principles in Ruby](2014/06/27/solid-design-principles-in-ruby-reddot-ruby-conf-2014.html) - RedDot RubyConf (June 2014)
 * [SOLID Design Principles in Ruby](2014/03/22/solid-design-principles-in-ruby.html) - RubyConf India (March 2014)
 * [Docker](2014/01/18/docker-talks.html) - Pune Ruby Users Group Meetup (Jan 2014)
 * [Design Pattern in Ruby](2013/07/07/design-patterns-in-ruby-at-prug.html) - Pune Ruby Users Group meetup (July 2013)
