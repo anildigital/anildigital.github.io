@@ -11,8 +11,8 @@ About
 * I like running much. It helps me to be sane.
 * This is where I hope, I can share my thoughts, adventures in my life,  photos, codes and all nice things I am excited about.
 * You can follow me on [Twitter](http://twitter.com/anildigital), hear my musical tastes on [Last.fm](http://www.last.fm/user/anildigital)
-* Feel free to drop me an e-mail, <a href="mailto:anildigital@gmail.com">anildigital@gmail.com</a>   
-   
+* Feel free to drop me an e-mail, <a href="mailto:anildigital@gmail.com">anildigital@gmail.com</a>
+
 <br />
 About this site
 ===============
@@ -24,7 +24,7 @@ About this site
   the source resides on
   [GitHub](https://github.com/anildigital/anildigital.github.com/). If
   you find any error, please let me know.
-  
+
 <br />  
 Elsewhere
 =========
@@ -37,3 +37,8 @@ You can find me on a variety of social web sites; my username is usually “anil
 * [LinkedIn](http://in.linkedin.com/in/anilwadghule) — all business.
 * [SlideShare](http://www.slideshare.net/anildigital) — presentations.
 * [Twitter](http://twitter.com/anildigital) — brief status updates and observations.
+
+<br />
+Software I use
+==============
+[List of some software I use](/software_i_use.html)
