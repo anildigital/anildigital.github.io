@@ -3,7 +3,7 @@ layout: default
 title: The Setup
 ---
 
-### Software 
+## Software 
 
 * [Emacs](http://www.gnu.org/software/emacs/)
 * [Skype](http://skype.com)
@@ -24,7 +24,9 @@ title: The Setup
 
 
 
-### Services
+
+
+## Services
 
 * [GitHub](https://github.com/)
 * [Twitter](http://twitter.com/)
