@@ -39,6 +39,6 @@ You can find me on a variety of social web sites; my username is usually “anil
 * [Twitter](http://twitter.com/anildigital) — brief status updates and observations.
 
 <br />
-Software I use
+The Setup
 ==============
-[List of some software I use](/usesthis.html)
+[List of some software, services and tools I use](/usesthis.html)
