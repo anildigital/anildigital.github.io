@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Software I use
+title: The Setup
 ---
 
+### Software 
+
+* [Emacs](http://www.gnu.org/software/emacs/)
 * [Skype](http://skype.com)
 * [Tweetbot](http://tapbots.com/software/tweetbot/)
-* [Atom editor](http://atom.io)
 * [1Password](http://agilebits.com/1password)
 * [IntelliJ IDEA](www.jetbrains.com/idea/)
 * [Telegram](https://telegram.org/)
@@ -18,3 +20,15 @@ title: Software I use
 * [Rdio](http://rdio.com)
 * [Byword](http://bywordapp.com/)
 * [LimeChat](http://limechat.net/)
+* [Mailbox](http://www.mailboxapp.com/)
+
+
+
+### Services
+
+* [GitHub](https://github.com/)
+* [Twitter](http://twitter.com/)
+* [TripIt](http://tripit.com/)
+* [Flickr](http://flickr.com/)
+* [Pinboard](http://pinboard.in/)
+* [last.fm](http://www.last.fm/)
