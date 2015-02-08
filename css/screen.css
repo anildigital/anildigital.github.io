@@ -7,48 +7,47 @@
 /* Global Reset */
 
 * {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 html, body {
-	height: 100%;
+    height: 100%;
 }
 
 body {
-	background-color: white;
-	font: 13px helvetica, arial, clean, sans-serif;
-	*font-size: small;
-	text-align: center;
+    background-color: white;
+    font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;   
+    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-size: 100%;
+    font-size: 100%;
 }
 
 h1 {
-	margin-bottom: 1em;
+    margin-bottom: 1em;
 }
 
 p {
-	margin: 1em 0;
+    margin: 1em 0;
 }
 
 a {
-	color: #00a;
+    color: #00a;
 }
 
 a:hover {
-	color: black;
+    color: black;
 }
 
 a:visited {
-	color: #a0a;
+    color: #a0a;
 }
 
 table {
-	font-size: inherit;
-	font: 100%;
+    font-size: inherit;
+    font: 100%;
 }
 
 /*****************************************************************************/
@@ -58,22 +57,21 @@ table {
 /*****************************************************************************/
 
 ul.posts {
-	list-style-type: none;
-	margin-bottom: 2em;
+    list-style-type: none;
+    margin-bottom: 2em;
 }
 
 .small {
-	font-size:90%;
+    font-size:70%;
 }
 
 ul.posts li {
-	line-height: 1.75em;
+    line-height: 1.75em;
 }
 
 ul.posts span {
-	color: #aaa;
-	font-family: Monaco, "Courier New", monospace;
-	font-size: 80%;
+    color: #aaa;
+    font-size: 80%;
 }
 
 
@@ -84,120 +82,119 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-	font-size: 110%;
-	text-align: justify;
-	width: 40em;
-	margin: 3em auto 2em auto;
-	line-height: 1.5em;
+    font-size: 110%;
+    text-align: justify;
+    width: 40em;
+    margin: 3em auto 2em auto;
+    line-height: 1.5em;
 }
 
 .title {
-	color: #a00;
-	font-weight: bold;
-	margin-bottom: 2em;
+    color: #a00;
+    font-weight: bold;
+    margin-bottom: 2em;
 }
 
 .site .title a {
-	color: #a00;
-	text-decoration: none;
+    color: #a00;
+    text-decoration: none;
 }
 
 .site .title a:hover {
-	color: black;
+    color: black;
 }
 
 .site .title a.extra {
-	color: #aaa;
-	text-decoration: none;
-	margin-left: 1em;
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 1em;
 }
 
 .site .title a.extra:hover {
-	color: black;
+    color: black;
 }
 
 
 .header {
-	border-bottom:1px solid #CCCCCC;
-	color:#0000AA;
-	font-weight:bold;
-	margin-bottom:2em;
-	text-align:left;
+    border-bottom:1px solid #CCCCCC;
+    color:#0000AA;
+    font-weight:bold;
+    margin-bottom:2em;
+    text-align:left;
 }
 .site .header h1 {
-	font-family:"Lucida Grande",Verdana,Arial,sans-serif;
-	font-size:26px;
-	font-weight:normal;
+    font-size:26px;
+    font-weight:normal;
 }
 .site .header a {
-	color:#0000AA;
-	text-decoration:none;
+    color:#0000AA;
+    text-decoration:none;
 }
 .site .header a:hover {
-	color:black;
+    color:black;
 }
 .site .header a.extra {
-	color:#999;
-	margin-right:2em;
-	text-decoration:none;
+    color:#999;
+    margin-right:2em;
+    text-decoration:none;
 }
 .site .header a.extra:hover {
-	color:black;
+    color:black;
 }
 
 .site #intro{
-	color:#000000;
-	font-size:18px;
-	margin-bottom:1em;
+    color:#000000;
+    font-size:18px;
+    margin-bottom:1em;
 }
 
 .site .meta {
-	color: #aaa;
+    color: #aaa;
 }
 
 .site .additional_info {
-	clear:both;
-	padding-top: 2em;
-	border-top: 4px solid #eee;
+    clear:both;
+    padding-top: 2em;
+    border-top: 4px solid #eee;
 }
 
 .site .footer {
-	clear:both;
-	font-size: 80%;
-	color: #666;
-	border-top: 4px solid #eee;
-	margin-top: 2em;
-	overflow: hidden;
+    clear:both;
+    font-size: 80%;
+    color: #666;
+    border-top: 4px solid #eee;
+    margin-top: 2em;
+    overflow: hidden;
 }
 
 .site .footer .contact {
-	float: left;
-	margin-right: 3em;
+    float: left;
+    margin-right: 3em;
 }
 
 .site .footer .contact a {
-	color: #8085C1;
+    color: #8085C1;
 }
 
 .site .footer .rss {
-	margin-top: 1.1em;
-	margin-right: -.2em;
-	float: right;
+    margin-top: 1.1em;
+    margin-right: -.2em;
+    float: right;
 }
 
 .site .footer .rss img {
-	border: 0;
+    border: 0;
 }
 
 .site .footer2 {
-	font-size: 80%;
-	color: #666;
-	text-align:center;
-	margin-top: 2em;
-	overflow: hidden;
+    font-size: 80%;
+    color: #666;
+    text-align:center;
+    margin-top: 2em;
+    overflow: hidden;
 }
 .site .footer2 a {
-	color: #666;
+    color: #666;
 }
 
 /*****************************************************************************/
@@ -207,78 +204,96 @@ ul.posts span {
 /*****************************************************************************/
 
 .post {
-	border-bottom: 1px #ccc solid;
-	padding-bottom: 10px;
-	margin-bottom:30px;
+    border-bottom: 1px #ccc solid;
+    padding-bottom: 10px;
+    margin-bottom:30px;
 }
 
 /* standard */
 
 .post pre {
-	border: 1px solid #ddd;
-	background-color: #eef;
-	padding: 0 .4em;
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
 }
 
 .post code {
-	border: 1px solid #ddd;
-	background-color: #eef;
-	font-size: 95%;
-	padding: 0 .2em;
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 95%;
+    padding: 0 .2em;
 }
 
 .post pre code {
-	border: none;
+    border: none;
 }
 
 /* terminal */
 
 .post pre.terminal {
-	border: 1px solid black;
-	background-color: #333;
-	color: white;
-	font-size: 14px;
-	overflow:auto;
+    border: 1px solid black;
+    background-color: #333;
+    color: white;
+    font-size: 14px;
+    overflow:auto;
 }
 
 .post pre.terminal code {
-	background-color: #333;
+    background-color: #333;
 }
 
 
 /* date */
 .post .date{
-	color:#666666;
-	font-style:italic;
+    color:#666666;
+    font-style:italic;
+}
+
+.post h2 {
+    border-left: 7px solid #eee;
+    margin-left: -20px;
+    padding-left: 10px;
 }
 
 #related {
-	margin-top: 2em;
+    margin-top: 2em;
 }
 
 #related h2 {
-	margin-bottom: 1em;
+    margin-bottom: 1em;
 }
 
 .related_left {
-	float:left;
-	width:45%;
+    float:left;
+    width:45%;
 }
 
 .related_right {
-	float:right;
+    float:right;
 }
 
 .view_comments_link {
-	font-size:12px;
-	text-align:right;
-	margin-top:10px;
+    font-size:12px;
+    text-align:right;
+    margin-top:10px;
 }
 
 /* Display last.fm chart */
 #lastfm_chart {
     position:fixed;
-    top:42px;
-    right:30px;
+    bottom:10px;
+    right:10px;
     z-index:1000;
+}
+
+#twitter_follow {
+    position:fixed;
+    top:5%;
+    left:2%;
+    z-index:1000;
+}
+
+@media screen and (min-width: 0px) and (max-width: 900px) {
+    #lastfm_chart { display: none; }  /* show it on small screens */
+    #twitter_follow {display: none; }
 }
