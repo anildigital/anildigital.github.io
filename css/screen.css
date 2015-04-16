@@ -278,7 +278,19 @@ ul.posts span {
 /* Display last.fm chart */
 #lastfm_chart {
     position:fixed;
-    top:42px;
-    right:30px;
+    bottom:10px;
+    right:10px;
     z-index:1000;
+}
+
+#twitter_follow {
+    position:fixed;
+    top:5%;
+    left:2%;
+    z-index:1000;
+}
+
+@media screen and (min-width: 0px) and (max-width: 900px) {
+    #lastfm_chart { display: none; }  /* show it on small screens */
+    #twitter_follow {display: none; }
 }
