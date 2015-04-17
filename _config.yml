@@ -1,3 +1,12 @@
-markdown: rdiscount
-highlighter: pygments
-lsi: false
+# Site settings
+title: Anil Wadghule
+email: anildigital@gmail.com
+description: >
+  A visionary developer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://anilwadghule.com" # the base hostname & protocol for your site
+twitter_username: anildigital
+github_username:  anildigital
+
+# Build settings
+markdown: kramdown

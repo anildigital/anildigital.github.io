@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The Setup
+title: Software
 ---
 
-## Software 
+## Software
 
 * [Emacs](http://www.gnu.org/software/emacs/)
 * [Skype](http://skype.com)

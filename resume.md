@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anil Wadghule CV
+title: CV
 ---
 
 [ASCII Resume](/resume.txt)
