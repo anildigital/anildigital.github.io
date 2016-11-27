@@ -12,19 +12,15 @@ title: Software
 * [IntelliJ IDEA](www.jetbrains.com/idea/)
 * [Telegram](https://telegram.org/)
 * [f.lux](https://justgetflux.com/)
-* [Alfred](http://www.alfredapp.com/)
 * [Day One](http://dayoneapp.com/)
 * [Dropbox](http://dropbox.com)
 * [iTerm2](http://iterm2.com/)
-* [Sunrise](http://www.sunrise.am/)
-* [Rdio](http://rdio.com)
+* [Fantastical 2](https://flexibits.com/fantastical)
 * [Byword](http://bywordapp.com/)
-* [LimeChat](http://limechat.net/)
-* [Mailbox](http://www.mailboxapp.com/)
-
-
-
-
+* [Textual](https://www.codeux.com/textual/)
+* [Polymail](https://polymail.io)
+* [1Blocker](http://1blocker.com)
+* [RescueTime](https://www.rescuetime.com)
 
 ## Services
 

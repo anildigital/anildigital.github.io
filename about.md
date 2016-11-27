@@ -6,9 +6,10 @@ title: About
 About
 ========
 
-* I am almost 30 years old programmer, hacker.
-* I work as Software Engineer at Equal Experts India, Pune
-* I like running much. It helps me to be sane.
+* I am 32 years old programmer, hacker.
+* I am curently working as Independent Software Consultant
+* I like running much. It helps me to be sane. I am fitness freak.
+* I love to travel. ✈
 * This is where I hope, I can share my thoughts, adventures in my life,  photos, codes and all nice things I am excited about.
 * You can follow me on [Twitter](http://twitter.com/anildigital), hear my musical tastes on [Last.fm](http://www.last.fm/user/anildigital)
 * Feel free to drop me an e-mail, <a href="mailto:anildigital@gmail.com">anildigital@gmail.com</a>
@@ -32,10 +33,9 @@ You can find me on a variety of social web sites; my username is usually “anil
 
 * [GitHub](http://github.com/anildigital) — code
 * [Flickr](http://flickr.com/photos/anildigital) — pics
-* [Dailymile](http://dailymile.com/people/anildigital) - my runs
 * [Last.fm](http://last.fm/user/anildigital) — the music I listen to.
 * [LinkedIn](http://in.linkedin.com/in/anilwadghule) — all business.
-* [SlideShare](http://www.slideshare.net/anildigital) — presentations.
+* [Speakerdeck](https://speakerdeck.com/anildigital) — presentations.
 * [Twitter](http://twitter.com/anildigital) — brief status updates and observations.
 
 

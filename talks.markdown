@@ -3,6 +3,8 @@ layout: default
 title: Talks
 ---
 
+* [Ruby Concurrency Compared](2016/09/10/ruby-concurrency-compared.html) - Ruby Concurrency Compared at RubyKaigi, Kyoto, Japan (September, 2016)
+* [The Next Step Is Functional](2015/02/27/Next-Step-Is-Functional-Lambda-Days-Krakow-Poland.html) -  Lambda Days, Kraków, Poland (February, 2015)
 * [Functional Programming in JavaScript](2015/01/31/Functional-Programming-In-JavaScript-Expertalks-Pune.html) - Expertalks, Pune (January 2015)
 * [SOLID - The Next Step is Functional](2014/11/24/SOLID-The-Next-Step-Is-Functional-FP-Days-2014.html) - FP Days, London (November 2014)
 * [SOLID Design Principles in Ruby](2014/06/27/solid-design-principles-in-ruby-reddot-ruby-conf-2014.html) - RedDot RubyConf, Singapore (June 2014)
