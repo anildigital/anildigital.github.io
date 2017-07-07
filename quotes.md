@@ -17,7 +17,7 @@ J.K. Rowling
 
 ---
 
-It's not how something looks, it's how it moves. 
+It's not how something looks, it's how it moves.
 
 
 [Jack Dorsey](https://twitter.com/jack/status/416766906641956864)
@@ -46,3 +46,15 @@ Be selfish: create and build things you want to see. The bet is others want the 
 ---
 
 
+"A secret to happiness is letting every situation be what it is, instead of what you think it should be."
+
+[Banksy](https://twitter.com/thereaIbanksy/status/882023653537439744)
+
+
+---
+
+Your life starts changing when the activities to do and the money you spend are investments towards a future goal.
+
+[Ed Latimore‏](https://twitter.com/EdLatimore/status/879312728153882624)
+
+---

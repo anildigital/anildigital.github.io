@@ -1,6 +1,6 @@
 Resume of Anil Wadghule
 
-anildigital@gmail.com
+anil@anilwadghule.com
 
 I am a programmer specializing in Ruby and Ruby on Rails projects. I do work with Java, JavaScript/Node.js.
 
@@ -12,7 +12,7 @@ Employment
 
 July 2013 to present
 Software Engineer at Equal Experts, Pune, India
-- working as a agile developer and use multiple technologies to solve clients' problems. 
+- working as a agile developer and use multiple technologies to solve clients' problems.
 
 March 2011 to July 2013
 Senior Software Engineer at SunGard, Pune, India
@@ -30,18 +30,18 @@ December 2006 to July 2009
 Software Engineer at MangoSpring Technologies, Pune, India.
 - Played vital role in development of PurpleTrail.com
 - Lead development + architecture in many aspects
-- Worked on Taskbin.com and also working on Eventuity which is PurpleTrail 
+- Worked on Taskbin.com and also working on Eventuity which is PurpleTrail
   business version
 
-May 2006 to August December 2006    
+May 2006 to August December 2006
 Software Engineer at Reevik Technologies, Pune, India.
 - Lead developer on Giftlasso.com
 - First company in Pune to work with Ruby on Rails.
 
 Education
 
-February 2001 to May 2006 
-Bachelor of Engineering in Computer Science, University of Pune, Maharashtra, India. 
+February 2001 to May 2006
+Bachelor of Engineering in Computer Science, University of Pune, Maharashtra, India.
 
 Academic Project
 Social Bookmarks Manager - Sponsored by Patni Computers, Pune
@@ -54,9 +54,9 @@ RSS (Really Simple Syndication)
 
 Open source
 
-May 2006 to present 
+May 2006 to present
 - Checkout http://github.com/anildigital for my open source projects
-- Contributing to Ruby on Rails by finding bugs and creating tickets. 
+- Contributing to Ruby on Rails by finding bugs and creating tickets.
 
 
 Activities
@@ -70,14 +70,14 @@ May 2010
 Talked brief on Rack - Ruby Webserver Interface.
 
 February 2009
-Participated Yahoo Open Hack Day 2009 @ Bangalore. Was part of around 250+ invitees out of thousands of applicants for HackDay. 
+Participated Yahoo Open Hack Day 2009 @ Bangalore. Was part of around 250+ invitees out of thousands of applicants for HackDay.
 
 February 2008
-Session speaker at BarCamp 4 @ ThoughtWorks Pune. 
+Session speaker at BarCamp 4 @ ThoughtWorks Pune.
 Slide: http://www.slideshare.net/anildigital/git-introduction
 
 July 2006
-Helped organizing first BarCamp in Pune, Mahrashtra, India. 
+Helped organizing first BarCamp in Pune, Mahrashtra, India.
 
 Skills
 
