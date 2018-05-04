@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 276
+title: 08
+wordpress_url: http://anilwadghule.com/blog/2008/01/05/276/
+layout: post
+---
+This is my first blog post of 2008! I am little reluctant to write it, as I am doing plenty of new things(and seriously don't have much time). I am writing this post for the sake of writing the post only.
+
+Nearly one year ago (Dec 26, 06), I joined <a href="http://mangospring.com">MangoSpring</a>. The year 2007 started with my work there. It has been always full of joy and energy. I worked for <a href="http://www.taskbin.com">TaskBin.com</a>, which was previously intended to be used in our office only. But we launched it as product due to awesome benefits it gives. You could find <a href="http://google.com/search?hl=en&amp;q=taskbin">hundreds of reviews</a> about TaskBin with Google. It is basically a group task management application built with Ruby on Rails. I later continued working on our next big thing product <a href="http://purpletrail.com">http://purpletrail.com</a>. I will write about it more later. <img title="Laughing" src="http://anilwadghule.com/blog/wp-includes/js/tinymce/plugins/emotions/images/smiley-laughing.gif" border="0" alt="Laughing" />
+
+I have been exploring <a href="http://ruby-lang.org">Ruby language</a> and <a href="http://rubyonrails.com">Rails framework</a>. I still find myself learning the language and framework and features in them. This is the reason why I like Ruby, Rails.  Whole year, I almost spent most of my time at work and little time at other things. I managed to buy a <a href="http://apple.com/macbook">MacBook</a>. It was my dream thing. I knew it will change my life and vision and it did. Whole year, I took many(certain) decisions, now finding I was correct. I followed my heart. 
+
+Now I am finding(after analyzing a bit) that I could have done a lot more that what I did last year. Whether it is personally, for work, for community, for people. Talking about technology, I have decided I won't let a chance of not learning or not trying. I will try to grasp as more as I can. I will try to develop as more as I can.
+
+Two days ago, I bought a slice(VPS) at <a href="http://slicehost.com">Slicehost.com</a>, coz from last two years, for my small weekend projects/tries, I used the web servers(shared hosts), domains gifted to me by friends. It was all limited experience with those. You just dont have full control over the server. You just can not do whatever you want/ed to do. You are restricted. You are forced not to try. I just hated that. I went and bought a slice. (costs me around $20 pm). I could now develop small ideas locally on MacBook,  whole experience of setting up servers(<a href="http://httpd.apache.org">Apache</a>, <a href="http://nginx.net">Nginx</a>, <a href="http://mongrel.rubyforge.org">Mongrel</a>), installation of new softwares at servers, try them out there, optimization of application with server was missing with shared hosting. I wanted to do that all on my own. I will use this VPS as my personal laptop thing. I will play with it as it is a game <img title="Smile" src="http://anilwadghule.com/blog/wp-includes/js/tinymce/plugins/emotions/images/smiley-smile.gif" border="0" alt="Smile" />.  I have a strong desire to write my blog with my developed blog app with Ruby code from scratch. I will definitely try to do that once it is setup properly, whoa.
+
+Year 2007 was my last year to use <a href="http://subversion.tigris.org">SVN</a> personally. Yes! I wont use it anymore. I am a <a href="http://git.or.z">Git</a> fan and learning it. I will use Git for my apps. I dont know why but I am becoming editor agnostic(was die hard <a href="http://vim.org">VIM</a> fan). I think I should use only one editor, but still in love of Textmate and Eclipse. All of them helps me under certain situations.
+
+I recently tried and played with <a href="http://jquery.com">jQuery</a>, it is all awesome and you don't feel that you are coding with javascript any more. It's like activerecord methods you use. I plan to use most of  jQuery in future. I almost forgot and won't use prototype and scriptaculous. 
+
+I think the year 2008 will be of my creations, my endeavours. I would try to attend almost every technical camps happen at Pune and near cities. 
+
+The standard site that I found last year was <a href="http://twitter.com">Twitter</a>. I am sure many people dont know what benefits it gives. Actually many people around don't have that much mind standard to understand its importance. They just feel it's just like any another site. But it helped me a lot; like <a href="http://del.icio.us">del.icio.us</a> helped me in 2005. It is all about new concept.
+
+I get fascinated by Ruby <a href="http://en.wikipedia.org/wiki/Metaprogramming">metaprogramming</a> and features it has. I almost like every single Rails feature. I think Rails is built with certain mindset in mind which is a standard in itself.  
+
+... . . I can write so much about the techie, geeky things that I have been trying and it will be a long post so.. stopping here! 
+
+I am looking forward to nice heart-touching music by <a href="http://www.imdb.com/name/nm0006246">A. R. Rahman</a> for upcoming movies.

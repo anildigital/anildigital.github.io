@@ -1,0 +1,15 @@
+---
+layout: default
+title: Talks
+---
+
+<div id="home">
+  <h1>Talks</h1>
+  <ul class="posts">
+    {% assign talks = site.talks | sort: 'date' | reverse %}
+    {% for talk in talks %}
+    <li><span>{{ talk.date | date_to_string }}</span> &raquo; <a href="{{ talk.url }}">{{ talk.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</div>

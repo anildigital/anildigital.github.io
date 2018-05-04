@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 273
+title: Rails 2.0.0 tagged
+wordpress_url: http://anilwadghule.com/blog/2007/12/07/rails-200-tagged/
+layout: post
+---
+<a href="http://www.flickr.com/photos/anildigital/2092164989/" title="Rails 2.0.0 tagged by anildigital, on Flickr"><img src="http://farm3.static.flickr.com/2059/2092164989_88802473fd.jpg" alt="Rails 2.0.0 tagged" height="400" width="500" /></a>
+
+Screenshot of the Rails trac showing <a href="http://dev.rubyonrails.org/changeset/8328" title="Rails 2.0.0 tagged" id="a0_r">Rails 2.0.0 tagged</a> by DHH. No official announcement post yet. But I got this insider information <img src="http://anilwadghule.com/blog/wp-includes/js/tinymce/plugins/emotions/images/smiley-smile.gif" alt="Smile" title="Smile" border="0" />.
+
+Update:
+Check-out links for more info.<a href="http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done" rel="nofollow">
+Riding Rails: Rails 2.0: It's done!</a><a href="http://ryandaigle.com/articles/2007/12/7/rails-2-0-final-released-summary-of-features" rel="nofollow">
+Rails 2.0 Final Released! - Summary of Features</a>
+<h4 class="desc"></h4>

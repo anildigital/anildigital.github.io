@@ -8,6 +8,14 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+body a {
+    color: green;
+}
+
+body a:visited {
+    color: darkgreen;
+}
+
 
 
 /**
@@ -127,7 +135,7 @@ a {
 
 /**
  * Blockquotes
- */
+ */pp
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;

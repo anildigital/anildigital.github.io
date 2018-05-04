@@ -4,9 +4,10 @@ title: Archive
 ---
 
 <div id="home">
-  <h1>Archive ({{ site.posts | size }} posts)</h1>
+  <h1>Archive ({{ site.blog | size }} posts)</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% assign posts = site.blog | sort: 'date' | reverse %}
+    {% for post in posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
