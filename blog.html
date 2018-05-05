@@ -4,11 +4,11 @@ title: Blog
 ---
 
 <div id="home">
-  <h1 id="intro">The three most recent posts.</h1>
+  <h1 id="intro">The three most recent posts.</h1><h4>(see <a href="/archive.html">archive</a> for more)</h4>
   <div>
   </div>
   {% assign posts = site.blog | sort: 'date' | reverse %}
-  {% for post in posts limit:3  %}
+  {% for post in posts limit:7  %}
   <div class="post">
     <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
     <span class="date">{{ post.date | date:"%B %d, %Y" }}</span>
@@ -25,7 +25,7 @@ title: Blog
     <div class="related_left">
       <h2>Previous posts</h2>
       <ul class="posts small">
-        {% for post in posts offset:3 limit:3 %}
+        {% for post in posts offset:7 limit:3 %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
       </ul>
