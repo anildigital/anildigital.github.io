@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+header-img: /assets/bg_photo.jpg
 ---
 
 About Me
