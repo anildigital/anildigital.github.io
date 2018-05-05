@@ -1,12 +1,10 @@
---- 
+---
 wordpress_id: 351
 title: Hack Day 09
 wordpress_url: http://anilwadghule.com/blog/?p=351
 layout: post
 ---
 I participated in <a href="http://developer.yahoo.net/blog/archives/2009/02/openhack_bangalore.html">Open Hack Day 2009 by Yahoo!</a> It was h'awesome! <a href="http://t3.dotgnu.info">Gopal</a> has uploaded following vid.. it's awesome
-
-<object type="application/x-shockwave-flash" width="400" height="267" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=9438d52f75&photo_id=3282358672"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=9438d52f75&photo_id=3282358672" height="267" width="400"></embed></object>
 
 <br />
 This is me, bean bag and macbook

@@ -6,10 +6,11 @@ title: About
 About Me
 ========
 
-* I am 33 years old programmer, hacker.
+* I am 34 years old programmer, hacker.
 * I am curently working as Independent Software Consultant
-* I like running much. It helps me to be sane. I am fitness freak.
+* I like running. It helps me to be sane. I am fitness freak.
 * I love to travel. ✈
+* I visited New York, San Francisco, Los Angeles,, Seattle, London, Tokyo, Kyoto, Fukuoka, Brussels, Amsterdam, Singapore, Budapest, Krakow, Warsaw
 * Feel free to drop me an e-mail, <a href="mailto:anil@anilwadghule.com">anil@anilwadghule.com</a>
 
 
