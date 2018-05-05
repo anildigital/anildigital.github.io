@@ -7,7 +7,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <h1 class="site-title" rel="author" style="font-weight:bold;background-color: #FFFFFF;width:190px;padding-left:15px;margin-top:50px;padding-right:15px;font-size:30px;">
+    <h1 class="site-title" onclick="window.location.href='/';return false;" rel="author" style="cursor:pointer;font-weight:bold;background-color: #FFFFFF;width:190px;padding-left:15px;margin-top:50px;padding-right:15px;font-size:30px;">
       {{site.title | escape }}
     </h1>
 
