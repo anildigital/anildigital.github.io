@@ -1,6 +1,6 @@
 <header class="site-header" role="banner" {% if page.header-img %} style="background: url('{{ page.header-img }}') no-repeat center;" {% endif %}>
   <div style="position:absolute;top:0px:left:0px;color:white;">
-    <a style="font-weight:bold;color:green;padding-left:2em;padding-right:2em;padding-top:2em;padding-bottom:0.5em;" href="{{ "/" | relative_url }}">AW</a>&nbsp;
+    <a style="background-color:#fff;font-weight:bold;color:green;padding-left:0.3em;padding-right:0.3em;padding-bottom:0.2em;margin-left:0.2em;" href="{{ "/" | relative_url }}">AW</a>&nbsp;
   </div>
 
   <div class="wrapper" >
@@ -26,7 +26,7 @@
         {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
-        <a class="page-link" {% if page.header-img %} style="color: white;" {% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        <a class="page-link" {% if page.header-img %} style="color: yellowgreen;" {% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
         {%- endif -%}
         {%- endfor -%}
       </div>
