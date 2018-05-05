@@ -25,3 +25,9 @@ You can find me on a variety of social web sites; my username is usually “anil
 * [Twitter](http://twitter.com/anildigital) — brief status updates and observations.
 * [Last.fm](http://last.fm/user/anildigital) — the music I listen to.
 * [Flickr](http://flickr.com/photos/anildigital) — pics
+
+
+#### Random
+
+* [Random](/random.html) — Random posts
+* [Musings](/musings.html) — Musings

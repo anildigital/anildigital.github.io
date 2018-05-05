@@ -1,0 +1,15 @@
+---
+layout: default
+title: Musings
+---
+
+<div id="home">
+  <h1>Musings</h1>
+  <ul class="posts">
+    {% assign musings = site.musings | sort: 'date' | reverse %}
+    {% for musing in musings %}
+    <li><span>{{ musing.date | date_to_string }}</span> &raquo; <a href="{{ musing.url }}">{{ musing.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</div>

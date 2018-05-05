@@ -18,3 +18,7 @@ collections:
     output: true
   talks:
     output: true
+  randomposts:
+    output: true
+  musings:
+    output: true

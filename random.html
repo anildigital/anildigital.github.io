@@ -1,0 +1,15 @@
+---
+layout: default
+title: Random posts
+---
+
+<div id="home">
+  <h1>Random </h1>
+  <ul class="posts">
+    {% assign randomposts = site.randomposts | sort: 'date' | reverse %}
+    {% for randompost in randomposts %}
+    <li><span>{{ randompost.date | date_to_string }}</span> &raquo; <a href="{{ randompost.url }}">{{ randompost.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</div>
