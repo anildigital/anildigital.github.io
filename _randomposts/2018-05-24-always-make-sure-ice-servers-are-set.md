@@ -1,5 +1,5 @@
 --- 
-title: Always make sure ICE Servers are set
+title: Always make sure ICE servers are set
 layout: post
 ---
 
