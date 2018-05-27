@@ -7,18 +7,18 @@ wordpress_url: http://anilwadghule.com/blog?p=343
 
 If you are getting following error on trying to install mysql gem on mac (Leopard, in my case)
 
-<pre class="terminal">
+{% highlight shell %}
 $ sudo gem install mysql
 Building native extensions.  This could take a while...
 ERROR:  Error installing mysql:
 ERROR: Failed to build gem native extension.
 
 /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby extconf.rb install mysql checking for mysql_query() in -lmysqlclient... no checking for main() in -lm... yes checking for mysql_query() in -lmysqlclient... no checking for main() in -lz... yes checking for mysql_query() in -lmysqlclient... no checking for main() in -lsocket... no checking for mysql_query() in -lmysqlclient... no checking for main() in -lnsl... no checking for mysql_query() in -lmysqlclient... no extconf.rb failed Could not create Makefile due to some reason, probably lack of necessary libraries and/or headers.  Check the mkmf.log file for more details.  You may need configuration options.
-</pre>
+{% endhighlight %}
 
 Try following
 
-<pre class="terminal">
+{% highlight shell %}
 $ sudo gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config
 Building native extensions.  This could take a while...
 Successfully installed mysql-2.7
@@ -33,13 +33,13 @@ dyld: lazy symbol binding failed: Symbol not found: _mysql_init
 dyld: Symbol not found: _mysql_init Referenced from: /Library/Ruby/Gems/1.8/gems/mysql-2.7/lib/mysql.bundle Expected in: dynamic lookup
 
 Trace/BPT trap
-</pre>
+{% endhighlight %}
 
 The reason is that MySQL Ruby gem build is 32 bit one and it doesn't work well with 64 bit MySQL dmg
 
 To solve all this, uninstall installed 64 bit MySQL dmg as follows ( There is no good way to uninstall MySQL from Mac other than below)
 
-<pre class="terminal">
+{% highlight shell %}
  sudo rm /usr/local/mysql
  sudo rm -rf /usr/local/mysql*
  sudo rm -rf /Library/StartupItems/MySQLCOM
@@ -47,7 +47,9 @@ To solve all this, uninstall installed 64 bit MySQL dmg as follows ( There is no
  edit /etc/hostconfig and remove the line MYSQLCOM=-YES-
  sudo rm -rf /Library/Receipts/mysql*
  sudo rm -rf /Library/Receipts/MySQL*
-</pre>
+{% endhighlight %}
+
 from - [http://akrabat.com/2008/09/11/uninstalling-mysql-on-mac-os-x-leopard/](http://akrabat.com/2008/09/11/uninstalling-mysql-on-mac-os-x-leopard/)
 
 Now download and install 32 bit [MySQL dmg](http://dev.mysql.com/downloads/mysql/5.1.html#macosx-dmg)
+
