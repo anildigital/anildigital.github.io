@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 299
 title: Planet Rails
 wordpress_url: http://anilwadghule.com/blog/?p=299
 layout: post
+published: false
 ---
 Checkout <a href="http://planetrails.digitalcodes.org">Planet Rails</a>, side project on which I worked for last two weekends. It's a planet site for top Ruby on Rails related weblogs.
 

@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 26
 title: BarCamp Pune 2
 wordpress_url: http://anilwadghule.com/blog/?p=26

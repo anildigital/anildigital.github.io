@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 302
 title: Using OpenID delegation
 wordpress_url: http://anilwadghule.com/blog/?p=302
 layout: post
+published: false
 ---
 <p style="text-align: justify;">I am using OpenID (<a href="http://claimid.com/anildigital">http://claimid.com/anildigital</a>) for quite sometime.
 I am aware of benefits of using OpenID for logging in to different OpenID supported sites.

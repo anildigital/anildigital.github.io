@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 32
 title: java applets have officially been deprecated
 wordpress_url: http://anilwadghule.com/blog/?p=32

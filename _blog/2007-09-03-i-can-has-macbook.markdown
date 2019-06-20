@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 259
 title: I can has MacBook
 wordpress_url: http://anilwadghule.com/blog/2007/09/03/i-can-has-macbook/
 layout: post
+published: false
 ---
 Recently I bought a <a href="http://www.apple.com/macbook">MacBook</a>. Earlier, I had planned to buy MacBook Pro but I finally went for MacBook. I am very happy with my decision. I am kinda addicted with my MacBook now.
 

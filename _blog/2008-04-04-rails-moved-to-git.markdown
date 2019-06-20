@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 293
 title: Rails moved to Git
 wordpress_url: http://anilwadghule.com/blog/?p=293

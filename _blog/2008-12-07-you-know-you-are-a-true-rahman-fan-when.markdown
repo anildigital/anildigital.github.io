@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 334
 title: "\"You know you are a true Rahman fan when...\""
 wordpress_url: http://anilwadghule.com/blog/?p=334
 layout: post
+published: false
 ---
 1. You have a peculiar taste in music, which does not
 necessarily have to match the taste of the "masses".

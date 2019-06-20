@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 258
 title: Macbook vs Dell Inspiron 1501
 wordpress_url: http://anilwadghule.com/blog/2007/08/14/macbook-vs-dell-inspiron-1501/
 layout: post
+published: false
 ---
 I got stumbled upon this nice discussion about Macbook vs Dell Inspiron on <a href="http://pownce.com">Pownce</a>.
 <a href="http://www.pownce.com/sepultura/notes/468370"> http://www.pownce.com/sepultura/notes/468370</a> (Pownce is happening ... woot!)

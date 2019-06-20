@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 328
 title: Rails myths
 wordpress_url: http://anilwadghule.com/blog/?p=328

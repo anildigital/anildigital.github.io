@@ -3,6 +3,7 @@ wordpress_id: 343
 layout: post
 title: Installing MySQL gem on Mac Leopard
 wordpress_url: http://anilwadghule.com/blog?p=343
+published: false
 ---
 
 If you are getting following error on trying to install mysql gem on mac (Leopard, in my case)

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 263
 title: Chqs I rcvd...
 wordpress_url: http://anilwadghule.com/blog/2007/10/29/chqs-i-rcvd/
 layout: post
+published: false
 ---
 In last couple of days, I received cheques from <a href="http://google.com/adsense">Google</a> and <a href="http://www.Text-Link-Ads.com">Textlink Ads</a>. I earned quite good money with it. But, I kinda hate earning this way...  I really don't want to earn money with ads. The other way is that I could donate money I earned with ads to open source projects.. seriously thinking about it. Here are the scanned versions of cheques.. Are you getting envy?
 

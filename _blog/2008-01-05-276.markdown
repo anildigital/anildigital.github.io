@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 276
 title: 08
 wordpress_url: http://anilwadghule.com/blog/2008/01/05/276/
 layout: post
+published: false
 ---
 This is my first blog post of 2008! I am little reluctant to write it, as I am doing plenty of new things(and seriously don't have much time). I am writing this post for the sake of writing the post only.
 

@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 11
 title: Ruby now mainstream
 wordpress_url: http://anilwadghule.com/blog/?p=11

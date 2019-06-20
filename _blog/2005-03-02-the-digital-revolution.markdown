@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 65
 title: the digital revolution
 wordpress_url: http://anilwadghule.com/blog/?p=65

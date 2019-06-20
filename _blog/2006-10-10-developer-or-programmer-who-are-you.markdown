@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 40
 title: developer or programmer, who are you?
 wordpress_url: http://anilwadghule.com/blog/?p=40

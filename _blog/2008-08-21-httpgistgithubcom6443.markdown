@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 301
 title: http://gist.github.com/6443
 wordpress_url: http://anilwadghule.com/blog/?p=301
 layout: post
+published: false
 ---
 Awesome! Awesome <a href="http://rubyhoedown2008.confreaks.com/08-chris-wanstrath-keynote.html">keynote</a> by Chris. Some excerpts from it
 <blockquote>You should always have a side project, too. Side projects give you an

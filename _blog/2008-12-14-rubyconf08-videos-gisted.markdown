@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 338
 title: RubyConf08 videos gisted
 wordpress_url: http://anilwadghule.com/blog/?p=338
 layout: post
+published: false
 ---
 Here is the gist list of directly downloadable videos of RubyConf08 talks.
 
