@@ -27,7 +27,9 @@ You can find me on a variety of social web sites; my username is usually “anil
 * [Flickr](http://flickr.com/photos/anildigital) — pics
 
 
-#### Random
+#### Blogs
 
+* [Programming blog](https://anildigital.dev) — Programming
+* [Blog](/blog.html) — Personal blog
 * [Random](/random.html) — Random posts
 * [Musings](/musings.html) — Musings
