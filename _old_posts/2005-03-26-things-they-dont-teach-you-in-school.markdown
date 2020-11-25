@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 69
+title: Things they dont teach you in school
+wordpress_url: http://anilwadghule.com/blog/?p=69
+layout: post
+published: false
+---
+<div><br />
+ <span style="color:red;">Rule 1: Life is not fair - get used to it.<br /><br />Rule2: The world won't care about your self-esteem. The world will expect you to accomplish something BEFORE you can feel good about yourself.<br /><br />Rule3: You will NOT make $40,000 a year right out of high school. You won't be a vice-president with a car phone until you earn both.<br /><br />Rule 4: If you think your teacher is tough, wait till you get a boss.<br /><br />Rule5: Flipping burgers is not beneath your dignity. Your grandparents had a different word for burger flipping -- they called it opportunity.<br /><br />Rule 6: If you mess up, it's not your parents' fault, so don't whine about your mistakes, learn from them.<br /><br />Rule7: Before you were born, your parents weren't as boring as they are now. They got that way from paying your bills, cleaning your clothes and listening to you talk about how cool you are. So before you save the rain forest from the parasites of your parents' generation, try delousing the closet in your own room.<br /><br />Rule 8: Your school may have done away with winners and losers, but life has not. In some schools, they have abolished failing grades and they'll give you as many times as you want to get the right answer. This doesn't bear the slightest resemblance to ANYTHING in real life.<br /><br />Rule 9: Life is not divided into semesters. You don't get summers off and very few employers are interested in helping you find yourself. Do that on your own time.<br /><br />Rule 10: Television is NOT real life. Real life people actually have to leave the coffee shop and go to jobs.<br /><br />Rule 11: Be nice to nerds. Chances are you'll end up working for one!<br /></span><br />The above rules were rumored to be a part of speech made by Bill Gates, as<br />it turns out it is just a rumor.. But nevertheless it is worth reading.<br />
+</div>

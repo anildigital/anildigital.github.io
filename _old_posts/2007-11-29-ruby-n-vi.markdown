@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 272
+title: Ruby n Vi
+wordpress_url: http://anilwadghule.com/blog/2007/11/29/ruby-n-vi/
+layout: post
+---
+"<a href="http://www.tbray.org/ongoing/When/200x/2007/11/26/Ruby-Tool-Survey">Ruby Survey Results</a>" are out and Vi(VIM) is topping chart as preferred tool for Ruby development. <div><img src="http://www.tbray.org/ongoing/When/200x/2007/11/26/Ruby.png" alt="Ruby Vi" width="413" height="354" /></div><div><img src="http://www.tbray.org/ongoing/When/200x/2007/11/26/Rails.png" height="356" width="413" /> </div><div> <img src="http://www.tbray.org/ongoing/When/200x/2007/11/26/All.png" height="350" width="413" /></div>
