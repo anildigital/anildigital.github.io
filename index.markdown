@@ -7,24 +7,29 @@ layout: default
 
 ## About me
 
-I am Anil Wadghule,
+I'm Anil Wadghule,
 
-I am an Elixir developer / Software Consultant / Freelancer based out of Pune, India.
+Here is more about me
 
-I am running [Aplomb Tech](https://aplombtech.in "Aplomb Tech") a Software Development company, with a small set of devs working under me.
+An Elixir developer / Software Consultant / Freelancer based out of Pune, India.
 
-With expertise in building software with Elixir programming language & Phoenix web framework, I have helped my clients to build projects using Elixir lang and Phoenix web framework for a few years.
+Do Elixir consulting under [Aplomb Tech](https://aplombtech.in "Aplomb Tech") 
 
-Previously, I have worked with Ruby, Ruby on Rails, Java, Node.js, Elm, etc., programming languages.
+With expertise in building software with Elixir programming language & Phoenix web framework, helped my clients to build projects using Elixir language and Phoenix web framework for a few years.
 
-I specialize in product development. I follow TDD and Agile principles.
+Previously, worked with Ruby, Ruby on Rails, Java, Node.js, Elm, etc., programming languages.
+
+Specialize in product development. Follow TDD and Agile principles.
 
 
 ## Consulting
 
-I will help you architecting, coordinating, and implementing your Elixir projects. 
+Architect, coordinate, and implement your Elixir projects. 
 
-My experience includes building Skatter, a video chat product made with Elixir in the backend. I have worked in domains like Chatbots, Project management software, Online examinations video recording, Real-time notification hub, Social/E-commerce apps backend, etc. I have used Elixir as their main server-side language for these various projects in a variety of domains.
+My experience includes building Skatter, a video chat product made with Elixir in the backend. 
+
+Worked in domains like Chatbots, Project management software, Online examinations video recording, Real-time notification hub, Social/E-commerce apps backend, etc. 
+Used Elixir as main server-side language for these various projects in a variety of domains.
 
 
 ## Resume
