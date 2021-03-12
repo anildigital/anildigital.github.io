@@ -36,6 +36,10 @@ Used Elixir as main server-side language for these various projects in a variety
 
 My [resume](https://www.dropbox.com/s/p7480f9h3hfh0kv/anil-wadghule-resume.pdf?dl=1 "Resume")
 
+## LinkedIn
+
+[Link to LinkedIn profile](https://www.linkedin.com/in/anilwadghule "Link to LinkedIn profile")
+
 
 ## Contact
 
