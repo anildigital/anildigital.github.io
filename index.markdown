@@ -11,9 +11,7 @@ I'm Anil Wadghule,
 
 Here is more about me
 
-An Elixir developer / Software Consultant / Freelancer based out of Pune, India.
-
-Do Elixir consulting under [Aplomb Tech](https://aplombtech.in "Aplomb Tech") 
+I am currently working with Erlang Solutions as an Elixir Developer.
 
 With expertise in building software with Elixir programming language & Phoenix web framework, helped my clients to build projects using Elixir language and Phoenix web framework for a few years.
 
@@ -24,11 +22,11 @@ Specialize in product development. Follow TDD and Agile principles.
 
 ## Consulting
 
-Architect, coordinate, and implement your Elixir projects. 
+Architect, coordinate, and implement your Elixir projects.
 
-My experience includes building Skatter, a video chat product made with Elixir in the backend. 
+My experience includes building Skatter, a video chat product made with Elixir in the backend.
 
-Worked in domains like Chatbots, Project management software, Online examinations video recording, Real-time notification hub, Social/E-commerce apps backend, etc. 
+Worked in domains like Chatbots, Project management software, Online examinations video recording, Real-time notification hub, Social/E-commerce apps backend, etc.
 Used Elixir as main server-side language for these various projects in a variety of domains.
 
 
