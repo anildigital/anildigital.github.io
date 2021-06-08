@@ -9,8 +9,6 @@ layout: default
 
 I'm Anil Wadghule,
 
-Here is more about me
-
 I am currently working with Erlang Solutions as an Elixir Developer.
 
 With expertise in building software with Elixir programming language & Phoenix web framework, helped my clients to build projects using Elixir language and Phoenix web framework for a few years.
@@ -27,17 +25,13 @@ Architect, coordinate, and implement your Elixir projects.
 My experience includes building Skatter, a video chat product made with Elixir in the backend.
 
 Worked in domains like Chatbots, Project management software, Online examinations video recording, Real-time notification hub, Social/E-commerce apps backend, etc.
+
 Used Elixir as main server-side language for these various projects in a variety of domains.
 
-
-## Resume
-
-My [resume](https://www.dropbox.com/s/p7480f9h3hfh0kv/anil-wadghule-resume.pdf?dl=1 "Resume")
 
 ## LinkedIn
 
 [Link to LinkedIn profile](https://www.linkedin.com/in/anilwadghule "Link to LinkedIn profile")
-
 
 ## Contact
 
